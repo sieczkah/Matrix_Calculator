@@ -1,5 +1,5 @@
 # Matrix_Calculator
-## [Matrix Calculator][1] is project created durign studying with [JetBrains Academy Hyperskill course][2]
+## [Matrix Calculator][1] is project created when studying with [JetBrains Academy Hyperskill course][2]
 
 The calculator is able to perform a variety of operations on matrices including:
 * addition
