@@ -9,6 +9,6 @@ The calculator is able to perform a variety of operations on matrices including:
 
 [More about matrices](https://en.wikipedia.org/wiki/Matrix_(mathematics))
 
-[1]: matrix_calculator.py
+[1]: Matrix_Calculator.py
 [2]: https://hyperskill.org
 
